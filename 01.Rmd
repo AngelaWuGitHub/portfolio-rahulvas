@@ -10,17 +10,25 @@ In the last two months of 2017, the cryptocurrency market went beserk. As famili
 
 ## A Plan to Make Money.
 
-##### Overview.
-I propose collecting this word of mouth data through the use of various APIs. The best one I can think of is Twitter's free API which allows a user to download the most popular tweets for a specific topic. We will be able to count the number of distinct tweets made about a particular cryptocurrency in order to capture any spikes in "voice" for a particular currency. Furthermore, there are free NLP sentiment packages available that can be used on each tweet to determine whether someone is saying something positive or negative about a coin. If we can gather a spike of positive sentiment, it may be a directive to take a deeper look at this coin. 
+#### Overview
 
-##### The technology.
+In order to utilize the word of mouth idea, we will need to collect a lot of data, not just about coins, but also about what people are saying about certain coins. Fortunately, a lot of this data is widely available online.
+
+#### The Process
+
 In order to ensure that we are getting the best data possible, we have to utilize various APIs to get data. Ideally we'll need data from three sources:
 
 1. Price data
 2. Sentiment data
-3. News data. 
+3. News data
 
-Additionally, there are APIs for the New York Times and other magazine and news sites that can be used to pull more data about coins. CNBC did a segment on their channel a few weeks ago showing users how to buy the coin Ripple (XRP) and thus the price of Ripple skyrocketed within a few hours of that segment. Pulling this information in real time and then immediately acting on the surge of information will allow the user to react quicker than the general population. Each week there is a new partnership between a certain cryptocurrency and a Fortune 500 company or a large offshore bank. By monitoring the news sites for relevant coin information, users will be able to make informed decisions of coin price spikes or falls. 
+We can get price data from several websites; however, there are certain sites that will allow us to get information for a lot of coins at the once. The first and perhaps best site to get information from is [CoinMarketCap](https://coinmarketcap.com/). They have an excellent API that will allow us to get the price of the Top 100 cryptocurrencies every minute (perhaps even more frequent; however, we don't want to abuse their API). This will give us a nice tabular dataset with a time stamp and the price of a coin at the given time. We can also use exchange level data from various crypto exchanges; however, I believe CoinMarketCap will suffice. 
+
+The next dataset that we will need is sentiment data. The best one I can think of is [Twitter's free API](https://developer.twitter.com/en/docs/tweets/search/overview) which allows a user to download the most popular tweets for a specific topic. We will be able to count the number of distinct tweets made about a particular cryptocurrency in order to capture any spikes in "voice" for a particular currency. Furthermore, there are free NLP sentiment packages available that can be used on each tweet to determine whether someone is saying something positive or negative about a coin. If we can gather a spike of positive sentiment, it may be a directive to take a deeper look at this coin. 
+
+The final (for now) dataset that we will need is news data. There are APIs for the [New York Times](https://developer.nytimes.com/) and other magazine and news sites that can be used to pull more data about coins. CNBC did a segment on their channel a few weeks ago showing users how to [buy the coin Ripple (XRP)](https://www.cnbc.com/2018/01/02/how-to-buy-ripple.html) and thus the price of Ripple skyrocketed within a few hours of that segment. Pulling this information in real time and then immediately acting on the surge of information will allow the user to react quicker than the general population. Each week there is a new partnership between a certain cryptocurrency and a Fortune 500 company or a large offshore bank. By monitoring the news sites for relevant coin information, users will be able to make informed decisions of coin price spikes or falls. 
+
+#### The Outcome
 
 Ideally, a bot will be created in order to actually perform the buying and selling in real time; however, I believe that a user can be in charge of this action. If a user is notified of a potential surge either by email or text, they will be able to act on this information and buy and sell coins on the fly. 
 
