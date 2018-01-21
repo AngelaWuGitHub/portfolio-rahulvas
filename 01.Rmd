@@ -10,7 +10,15 @@ In the last two months of 2017, the cryptocurrency market went beserk. As famili
 
 ## A Plan to Make Money.
 
+##### Overview.
 I propose collecting this word of mouth data through the use of various APIs. The best one I can think of is Twitter's free API which allows a user to download the most popular tweets for a specific topic. We will be able to count the number of distinct tweets made about a particular cryptocurrency in order to capture any spikes in "voice" for a particular currency. Furthermore, there are free NLP sentiment packages available that can be used on each tweet to determine whether someone is saying something positive or negative about a coin. If we can gather a spike of positive sentiment, it may be a directive to take a deeper look at this coin. 
+
+##### The technology.
+In order to ensure that we are getting the best data possible, we have to utilize various APIs to get data. Ideally we'll need data from three sources:
+
+1. Price data
+2. Sentiment data
+3. News data. 
 
 Additionally, there are APIs for the New York Times and other magazine and news sites that can be used to pull more data about coins. CNBC did a segment on their channel a few weeks ago showing users how to buy the coin Ripple (XRP) and thus the price of Ripple skyrocketed within a few hours of that segment. Pulling this information in real time and then immediately acting on the surge of information will allow the user to react quicker than the general population. Each week there is a new partnership between a certain cryptocurrency and a Fortune 500 company or a large offshore bank. By monitoring the news sites for relevant coin information, users will be able to make informed decisions of coin price spikes or falls. 
 
