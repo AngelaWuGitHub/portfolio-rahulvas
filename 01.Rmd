@@ -2,7 +2,7 @@
 
 #### Keywords {-}
 
-cryptocurrency, trading, investing, bitcoin
+cryptocurrency, trading, investing, bitcoin, python, machine-learning, ai, datascience, tradingbot, nlp, scikit
 
 ## The State of Cryptocurrency.
 
