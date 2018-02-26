@@ -6,9 +6,11 @@ Drones, Image Recognition, Machine Learning, AI, Law Enforcment
 
 ## We're being watched. Crime still happens. 
 
-When a crime occurs, police are called immediately. Unfortunately, traffic and distance can affect how quickly an officer is able to be at the scene of a crime. While major crimes may be attended to faster, smaller crimes like roberries, hit and runs, and drunk drivers are usually hard for officers to get to right away. Drones can solve this problem. With drones specifically made for a police department's use case, drones can help officers when time is of the essence. 
+When a crime occurs, police are called immediately. Unfortunately, traffic and distance can affect how quickly an officer is able to be at the scene of a crime. While major crimes may be attended to faster, smaller crimes like roberries, hit and runs, and drunk drivers are usually hard for officers to get to right away. In Los Angeles, for the month of January 2018, there were 2 wanted murder suspects, 3 hit and runs, and 5 robberies.[http://www.lapdonline.org/january_2018]. Admitedly, Los Angeles is a big city and there is a lot of crime associated with a big city; however, there are not enough officers to help catch these smaller crimes. Drones can solve this problem. With drones specifically made for a police department's use case, drones can help officers when time is of the essence. 
 
 ## It's a Bird! It's a Plane! ... It's a Drone? 
+
+### A Few Scenarios
 
 If a crime is reported, the dispatcher usually records all the necessary information needed for an officer to be at the scene of the crime. One major thing that is usually recorded is the location of the crime. If the dispatcher can send a drone out to the location of the crime, the drone can fly above buildings (perhaps not skyscrapers), in order to reach the location of the crime faster than a police vehicle. Additionally, the drone can provide a live feed of the situation to the police station that the officers can view in the car. 
 
@@ -16,13 +18,15 @@ Furthermore, if the subject is a hit and run or a drunk driver, the drone can be
 
 The data that the drones will provide will allow officers to have better statistics on crime occurance as well as closed cases. Since the GPS coordinates of these drones will be tracked by the police agency itself, police will be able to see faster more optimized routes via their internal GPS system. 
 
+### What is being done
 
-```{r experimental,echo=F,results='asis',eval=F}
-data.table::fread('https://raw.githubusercontent.com/UCB-MIDS/experiments-causality/master/data/GerberGreenBook_Chapter3_Donations.csv?token=ABNmuX-Q14rzQ4teItDenc9L5Wo2flncks5ZL5qEwA%3D%3D') %>% stargazer::stargazer(type = 'html',title = 'Something from W241 Experiments and Causality')
-```
+Add some statistics as well as a good quote. 
+
 
 ## A Safer World.
 
 Drones will allow for police to be at locations quicker and have more visibility to crimes shortly after they occur. They will also allow more petty crime to be solved and for justice to be served. 
 
-There is an ethical dilemma of how much more can we be watched and who has access to these feeds. The public is already weary of being monitored by the government, they will not take kindly to be monitored even more. 
+There is an ethical dilemma of how much more can we be watched and who has access to these feeds. The public is already weary of being monitored by the government, they will not take kindly to be monitored even more. All over the country there are legal battles over the legalization of drone use by law enforcement officers, mainly due to privacy concerns. 
+
+If a cost benefit analysis is performed, would the pros of a safer world outweigh the cons of a private one? 
