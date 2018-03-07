@@ -1,4 +1,4 @@
-# Drones for Safety {#Drone Monitoring}
+# Drones for Safety {#Drone-Monitoring}
 
 #### Keywords {-}
 
@@ -9,32 +9,34 @@ Drones, Image Recognition, Machine Learning, AI, Law Enforcment
 
 ## We're being watched. Crime still happens. 
 
-When a crime occurs, police are called immediately. Unfortunately, traffic and distance can affect how quickly an officer is able to be at the scene of a crime. While major crimes may be attended to faster, smaller crimes like roberries, hit and runs, and drunk drivers are usually hard for officers to get to right away. In Los Angeles, for the month of January 2018, there were 2 wanted murder suspects, 3 hit and runs, and 5 robberies.[http://www.lapdonline.org/january_2018]. Admitedly, Los Angeles is a big city and there is a lot of crime associated with a big city; however, there are not enough officers to help catch these smaller crimes. Drones can solve this problem. With drones specifically made for a police department's use case, drones can help officers when time is of the essence. 
+When a crime occurs, police are called immediately. Unfortunately, traffic and distance can affect how quickly an officer is able to be at the scene of a crime. While major crimes may be attended to faster, smaller crimes like roberries, hit and runs, and drunk drivers are usually hard for officers to get to right away. In Los Angeles, for the month of January 2018, there were 2 wanted murder suspects, 3 hit and runs, and 5 robberies.[http://www.lapdonline.org/january_2018]. In Los Angeles, for non serious threats, officers arrived on the scene of a crime approximately 10 minutes after the crime was reported, which while not horrible, still has a significant lag time. Admitedly, Los Angeles is a big city and there is a lot of crime associated with a big city; however, there are not enough officers to help catch these smaller crimes. In New Orleans, it took 17 minutes for an officer to arrive on the scene after an _armed_ robbery took place. In Dallas, police take an average of 22 minutes to arrive for non-emergencies. Drones can solve this problem. With drones specifically made for a police department's use case, drones can help officers when time is of the essence. [http://articles.latimes.com/2005/feb/16/local/me-lapd16] [http://www.lapdonline.org/january_2018]
 
 ## It's a Bird! It's a Plane! ... It's a Drone? 
 
 ### A Few Scenarios
 
-If a crime is reported, the dispatcher usually records all the necessary information needed for an officer to be at the scene of the crime. According to the Pennsylvania Commision on Crime and Deliquency, when a crime is reported, officers usually try to get:
+If a crime is reported, the dispatcher usually records all the necessary information needed for an officer to be at the scene of the crime. According to the Pennsylvania Commission on Crime and Delinquency, when a crime is reported, officers usually try to get:
 
 1. Descriptions of anyone involved.
 2. Descriptions or names of any witnesses.
-3. Liscence plate number of any vehicles (even if they were not involved).
+3. License plate number of any vehicles (even if they were not involved).
 4. Descriptions of stolen property.
 
 [@WhatHappensCrime]
 
 These items are very visual and people who are either in shock or upset have to do their best to describe them to an officer or wait for an officer to arrive on the scene of a crime. If the dispatcher can send a drone out to the location of the crime, the drone can fly above buildings (perhaps not skyscrapers), in order to reach the location of the crime faster than a police vehicle. Additionally, the drone can provide a live feed of the situation to the police station that the officers can view in the car. 
 
-Furthermore, if the subject is a hit and run or a drunk driver, the drone can be fed the liscence plate of the car, and it can find and follow the car, giving real time location data to the police officers. According to USA Today, in 2011 there were 32,367 _fatal_ hit and runs. Drones have the possibility of being at the scene of the crime within minutes and can immediately start recording video and provide GPS coordinates to police officers. With this ability, people will be able to truly have safer streets because drunk drivers no longer can get away from the law. [@Fatalhitandruncrashes]
+Furthermore, if the subject is a hit and run or a drunk driver, the drone can be fed the license plate of the car, and it can find and follow the car, giving real time location data to the police officers. According to USA Today, in 2011 there were 32,367 _fatal_ hit and runs. Drones have the possibility of being at the scene of the crime within minutes and can immediately start recording video and provide GPS coordinates to police officers. With this ability, people will be able to truly have safer streets because drunk drivers no longer can get away from the law. [@Fatalhitandruncrashes]
 
-The data that the drones will provide will allow officers to have better statistics on crime occurance as well as closed cases. Since the GPS coordinates of these drones will be tracked by the police agency itself, police will be able to see faster more optimized routes via their internal GPS system. Overall, police departments could benefit from the use of drones to aid in their work.
+The data that the drones will provide will allow officers to have better statistics on crime occurrence as well as closed cases. Since the GPS coordinates of these drones will be tracked by the police agency itself, police will be able to see faster more optimized routes via their internal GPS system. Overall, police departments could benefit from the use of drones to aid in their work.
+
+Realistically, drones will help officers follow suspects, observe crimes from a distance, and help in pursuits. There is also the added benefit of safety. An officer can control a drone without directly putting their life in danger. 
 
 ### What is being done
 
 Currently the most common type of drone used is the unmanned ground drone. While these aren't the flight based drones, these machines help officers deal with potential hazards for inspection and disarming. I believe that these unmanned ground drones (UGD) will help ease the entry for unmanned aerial vehicles (UAV). The UGDs have been very successful track record in help preventing harm from befalling officers, and thus I suspect officers would also be open to UAV aid.
 
-In France, police officers are using drones to identify dangerous drivers. An officer monitors the camera of the drone and looks out for any suspect vehicles, and they then convey this information to the officer that is nearest to the scene. In the case of traffic violations for trucks, they have the ability to stop 15 to 20 trucks in an hour. According to MArketplace, The government intents to purchase more drones in order to bring similar traffic surveillance operations to other parts of the country. [@Franceusingdrones]
+In France, police officers are using drones to identify dangerous drivers. An officer monitors the camera of the drone and looks out for any suspect vehicles, and they then convey this information to the officer that is nearest to the scene. In the case of traffic violations for trucks, they have the ability to stop 15 to 20 trucks in an hour. According to Marketplace, the government intends to purchase more drones in order to bring similar traffic surveillance operations to other parts of the country. [@Franceusingdrones]
 
 Los Angeles had wildfires plague the city during the last two months of 2017. In order to help identify potential hotspots for fire activity, the Los Angeles Fire Department used UAVs to assist them. The fire department stated that the drones were much cheaper to operate than to wait for a helicopter and crew to get ready. They plan on using drones to help search for "missing hikers, assess hazardous materials incidents, and provide an extra vantage point for swift-water rescues." [@Branson-PottsFireDepartmentused]
 
@@ -50,4 +52,4 @@ Drones will allow for police to be at locations quicker and have more visibility
 
 There is an ethical dilemma of how much more can we be watched and who has access to these feeds. The public is already weary of being monitored by the government, they will not take kindly to be monitored even more. All over the country there are legal battles over the legalization of drone use by law enforcement officers, mainly due to privacy concerns. In response to this, I would argue that drones can also help monitor police officer activity and help stop any abuse of power by law enforcment officials. 
 
-The system isn't perfect; however, I strongly believe that drones can help aid in crime reduction/
+The system isn't perfect; however, I strongly believe that drones can help aid in crime reduction.
