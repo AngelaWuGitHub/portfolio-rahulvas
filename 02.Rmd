@@ -48,7 +48,7 @@ In terms of technology and data, many drone companies offer APIs which allow for
 
 ## A Safer World.
 
-Drones will allow for police to be at locations quicker and have more visibility to crimes shortly after they occur. They will also allow more petty crime to be solved and for justice to be served. There is already evidence that they are helping with reduce crime and prevent accidents. I believe that **regulated** adoption of drones by police officers can have a big impact on crime reduction.
+Drones will allow for police to be at locations quicker and have more visibility to crimes shortly after they occur. They will also allow more petty crime to be solved and for justice to be served. There is already evidence that they are helping with reduce crime and prevent accidents. I believe that **regulated** adoption of drones by police officers can have a big impact on crime reduction. It should also be noted that drones are **not** a subsitute for real people. There needs to be some emotional component to any officer victim relationship and a drone cannot replace that relationship.
 
 There is an ethical dilemma of how much more can we be watched and who has access to these feeds. The public is already weary of being monitored by the government, they will not take kindly to be monitored even more. All over the country there are legal battles over the legalization of drone use by law enforcement officers, mainly due to privacy concerns. In response to this, I would argue that drones can also help monitor police officer activity and help stop any abuse of power by law enforcment officials. 
 

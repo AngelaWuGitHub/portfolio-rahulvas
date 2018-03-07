@@ -31,13 +31,13 @@ Hi and welcome to my portfolio. I'm working on making this more personal.
 knitr::include_url('https://drive.google.com/file/d/0B6bobRDQR96iVEV3SXJJal9CczQ/preview')
 ```
 
-### Abstract of my first cool idea {-}
+### Abstract of Cryptocurrency With the World{-}
 
-Pop-up occupy labore, pug tofu nisi franzen YOLO tilde tumblr deep v nulla  aliqua.  Sapiente stumptown et lo-fi art party.  Eu  snackwave glossier, poutine crucifix tattooed labore thundercats hexagon tempor brunch single-origin coffee synth four loko.  Velit  beard ex etsy migas, tempor hashtag.  Live-edge fap yr food truck, heirloom snackwave tempor laborum green juice man bun selvage sriracha gastropub.  Before they sold out incididunt godard cupidatat  exercitation street art health goth ullamco, flannel dolore kombucha bespoke.  Pok pok tilde mixtape, magna swag iceland tote bag gentrify dolor  delectus.
+This project aims to utilize social media and other various news outlets to predict spikes and troughs of the cryptocurrency market. This data is aggregated together via various APIs and analyzed. The analysis is then conveyed to a user via text or email and a user can execute a trade via text or email. Eventually, the aim is to produce a bot to auto-trade cryptocurrencies.
 
-### Abstract of my second cool idea {-}
+### Abstract of Drone Monitoring {-}
 
-Vero dolor  franzen letterpress.  Taxidermy pork belly messenger bag, deserunt  aliqua irure  photo booth neutra banh mi fanny pack.  Butcher fam heirloom marfa.  Tilde reprehenderit  snackwave tempor.  Qui  pop-up kitsch dolor.  Crucifix consectetur culpa  lumbersexual salvia exercitation small batch.  Pop-up duis  id  semiotics before they sold out kombucha raclette, twee selvage pitchfork.
+Crime happens everyday and sometimes, officers respond too slowly due to a number of conditions. In this case, drones will allow officers to reach the scene of a crime before they physically arrive. Officers can pursue suspects, gather information, and survey the scene quicker and more efficiently than otherwise possible. Drones can then feed data back to the officer so they can analyze distance, images, and other key elements that could help solve a crime.
   
 ### Abstract of my third cool idea {-}
 
