@@ -19,16 +19,16 @@ readLines('https://www.zotero.org/api/users/4663599/items/top?limit=25&format=bi
 # Welcome! {-}
 
 <!-- You can include images saved within your repo... -->
-```{r hello-world,echo=FALSE,fig.cap='Hello World!',fig.align='center',out.width='50%'}
-knitr::include_graphics('img/hello-world.png')
-```
+# ```{r hello-world,echo=FALSE,fig.cap='Hello World!',fig.align='center',out.width='50%'}
+# knitr::include_graphics('img/hello-world.png')
+# ```
 
-Hi and welcome to my portfolio. I'm working on making this more personal.
+This site contains my portfolio of projects from "Research Design and Applications for Data and Analysis". The ideas presented below are currently conceptualized; however, I have hopes of implementing at least one of them. 
 
 <!-- Below this line is just examples of how you can embed video from Google Drive. First you have to enable sharing, then just get the object ID which is that long string between d/ and /preview and will also be appended to any sharing link you generate for your video. -->
 <p>
-```{r hello-benji,echo=FALSE,fig.cap='Hello Benjamin Franklin!',fig.align='center'}
-knitr::include_url('https://drive.google.com/file/d/0B6bobRDQR96iVEV3SXJJal9CczQ/preview')
+```{r hello,echo=FALSE,fig.cap='Hello',fig.align='center'}
+knitr::include_url('https://drive.google.com/file/d/1NLoKe_HZbFGvMiazYHASB6h7zxHDg331/view')
 ```
 
 ### Abstract of Cryptocurrency With the World{-}
@@ -39,12 +39,12 @@ This project aims to utilize social media and other various news outlets to pred
 
 Crime happens everyday and sometimes, officers respond too slowly due to a number of conditions. In this case, drones will allow officers to reach the scene of a crime before they physically arrive. Officers can pursue suspects, gather information, and survey the scene quicker and more efficiently than otherwise possible. Drones can then feed data back to the officer so they can analyze distance, images, and other key elements that could help solve a crime.
   
-### Abstract of my third cool idea {-}
+<!-- ### Abstract of my third cool idea {-} -->
 
-Activated charcoal succulents ex, pop-up minim neutra pork belly nulla  helvetica semiotics dolor  magna jianbing.  Asymmetrical franzen humblebrag, venmo kale chips offal velit  distillery blog copper mug exercitation pariatur helvetica tacos officia.  Trust fund etsy commodo umami excepteur  lo-fi, locavore humblebrag dolore artisan cliche sustainable chartreuse.  Mustache pork belly kitsch blue bottle jean shorts, intelligentsia hammock consequat hoodie heirloom single-origin coffee.  Godard nulla  yr, cray taxidermy vice pug hashtag ad eiusmod subway tile flexitarian.  Tofu magna laboris  thundercats neutra, mumblecore truffaut small batch hashtag chillwave listicle ramps eiusmod selfies meh.  Bushwick butcher cupidatat  hella organic.
+<!-- Activated charcoal succulents ex, pop-up minim neutra pork belly nulla  helvetica semiotics dolor  magna jianbing.  Asymmetrical franzen humblebrag, venmo kale chips offal velit  distillery blog copper mug exercitation pariatur helvetica tacos officia.  Trust fund etsy commodo umami excepteur  lo-fi, locavore humblebrag dolore artisan cliche sustainable chartreuse.  Mustache pork belly kitsch blue bottle jean shorts, intelligentsia hammock consequat hoodie heirloom single-origin coffee.  Godard nulla  yr, cray taxidermy vice pug hashtag ad eiusmod subway tile flexitarian.  Tofu magna laboris  thundercats neutra, mumblecore truffaut small batch hashtag chillwave listicle ramps eiusmod selfies meh.  Bushwick butcher cupidatat  hella organic. -->
 
 ## About the author {-}
 
-Sustainable aute  gochujang, messenger bag vero dolor  blog pork belly knausgaard.  Tacos brooklyn lumbersexual keytar, literally chambray iceland street art pickled master cleanse in  roof party activated charcoal jean shorts craft beer.  Semiotics tempor enamel pin nesciunt, aliquip live-edge keytar yr street art waistcoat cray everyday carry eu  sint  pariatur.  Aliquip anim  godard leggings, flexitarian direct trade  humblebrag.  Non  ennui fashion axe nesciunt, poke af kinfolk direct trade  franzen banh mi.  Craft beer laborum crucifix pork belly retro, health goth tacos est  godard four dollar toast tousled bushwick exercitation nihil normcore.  Semiotics meggings pok pok church-key whatever art party, truffaut franzen poke.
+I'm Rahul and I'm currently a Senior Data Analyst/Data Engineer at a marketing company based in Los Angeles, CA. I received my bachelors degree from UC Berkeley in Applied Mathematics and shortly after did a brief stint in consulting. My background is actually rooted in theoretical mathematics; however, that has started shifting to more applied mathematics and data science. I am very interested in the cryptocurrency space, and am attempting to figure out a good way to utilize data science in the sector. Now, I'm back at UC Berkeley getting a Masters in Information and Data Science. 
 
 *Updated: `r Sys.Date()`*
